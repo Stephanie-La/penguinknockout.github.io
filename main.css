@@ -4,8 +4,13 @@
 }
 
 @font-face {
-    font-family: Didot;
-    src: url(didot_regular);
+    font-family: PartyConfetti;
+    src: url(PartyConfettiRegular-eZOn3.ttf);
+}
+
+@font-face {
+    font-family: ChildsHand;
+    src: url(ChildsHand-x3OwO.ttf);
 }
 
 #header {
@@ -29,7 +34,7 @@
     padding-top: 15px;
     margin-left: 12.5%;
     margin-right: 12.5%;
-    font-family: Didot;
+    font-family: PartyConfetti;
     letter-spacing: 0.1em;
 }
 
@@ -68,11 +73,11 @@ a:hover {
 }
 
 .content-text-block p {
-    font-family: Avenir;
+    font-family: ChildsHand;
     line-height: 2;
 }
 
 .content-text-block h3 {
-    font-family: Didot;
+    font-family: PartyConfetti;
     letter-spacing: 0.1em;
 }
