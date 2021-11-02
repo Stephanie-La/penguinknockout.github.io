@@ -1,5 +1,5 @@
 @font-face {
-    font-family: First Snow;
+    font-family: FirstSnow;
     src: url(Firstsnow-nRYmg.ttf);
 }
 
@@ -14,7 +14,7 @@
 
 #logo {
     text-align: center;
-    font-family: First Snow;
+    font-family: FirstSnow;
     letter-spacing: 0.5em;
 }
 
