@@ -9,6 +9,7 @@ html {
 @font-face {
     font-family: FirstSnow;
     src: url(Firstsnow-nRYmg.ttf);
+    color: white;
 }
 
 @font-face {
@@ -46,6 +47,7 @@ html {
     font-family: PartyConfetti;
     letter-spacing: 0.1em;
     font-size: 125%;
+    color: white;
 }
 
 #navigation a {
