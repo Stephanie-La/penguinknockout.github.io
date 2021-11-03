@@ -48,13 +48,13 @@ html {
     font-size: 125%;
 }
 
-#navigation a {
+a {
     text-decoration: none;
     color: #000000;
 }
 
 a:hover {
-    color: #d0d0d0 !important;
+    color: #FFFFFF !important;
 }
 
 .content {
