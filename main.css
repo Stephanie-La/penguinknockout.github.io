@@ -13,6 +13,18 @@
     src: url(ChildsHand-x3OwO.ttf);
 }
 
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url("Background.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #header {
     padding-top: 20px;
 }
