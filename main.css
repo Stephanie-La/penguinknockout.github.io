@@ -30,7 +30,7 @@ html {
     font-family: FirstSnow;
     letter-spacing: 0.5em;
     font-size: 225%;
-    color: white;
+    color: #FFFFFF;
 }
 
 #header-line {
@@ -47,7 +47,7 @@ html {
     font-family: PartyConfetti;
     letter-spacing: 0.1em;
     font-size: 125%;
-    color: white;
+    color: #FFFFFF;
 }
 
 #navigation a {
