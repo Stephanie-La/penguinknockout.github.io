@@ -44,9 +44,12 @@ html {
     margin-left: 12.5%;
     margin-right: 12.5%;
     font-family: PartyConfetti;
-    text-decoration: none;
     letter-spacing: 0.1em;
     font-size: 125%;
+}
+
+#navigation a {
+    text-decoration: none;
 }
 
 a {
