@@ -89,6 +89,9 @@ a:hover {
 }
 
 .content-text-block a {
+    font-family: ChildsHand;
+    line-height: 2;
+    font-size: 125%;
     text-decoration: underline;
     font-weight: bold;
 }
