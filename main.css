@@ -76,7 +76,7 @@ a:hover {
 
 .content-text-block {
     position: absolute;
-    width: 25%;
+    width: 50%;
     top: 7%;
     right: 59%;
     overflow-wrap: break-word;
