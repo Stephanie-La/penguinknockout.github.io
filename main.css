@@ -88,6 +88,10 @@ a:hover {
     font-size: 125%;
 }
 
+.content-text-block a {
+    text-decoration: underline;
+}
+
 .content-text-block h3 {
     font-family: PartyConfetti;
     letter-spacing: 0.1em;
