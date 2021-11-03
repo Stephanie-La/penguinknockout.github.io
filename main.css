@@ -96,7 +96,7 @@ a:hover {
     font-size: 150%;
 }
 
-.content-text-block2 {
+.content-text-block-2 {
     position: absolute;
     width: 25%;
     top: 7%;
@@ -104,13 +104,13 @@ a:hover {
     overflow-wrap: break-word;
 }
 
-.content-text-block2 p {
+.content-text-block-2 p {
     font-family: ChildsHand;
     line-height: 2;
     font-size: 125%;
 }
 
-.content-text-block2 h3 {
+.content-text-block-2 h3 {
     font-family: PartyConfetti;
     letter-spacing: 0.1em;
     font-size: 150%;
