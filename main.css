@@ -9,7 +9,6 @@ html {
 @font-face {
     font-family: FirstSnow;
     src: url(Firstsnow-nRYmg.ttf);
-    color: white;
 }
 
 @font-face {
@@ -31,6 +30,7 @@ html {
     font-family: FirstSnow;
     letter-spacing: 0.5em;
     font-size: 225%;
+    color: white;
 }
 
 #header-line {
