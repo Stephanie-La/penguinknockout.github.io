@@ -110,3 +110,7 @@ a:hover {
     display: inline-block;
     margin: 0 40px 0 0;
 }
+
+.row img {
+    width: 50%
+}
