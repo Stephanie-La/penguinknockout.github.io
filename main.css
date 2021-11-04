@@ -70,7 +70,7 @@ a:hover {
     transform: scale(1.05); 
 }  
 
-.content img {
+.gray-box {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -79,8 +79,8 @@ a:hover {
 
 .content-text-block {
     position: absolute;
-    width: 50%;
-    top: 7%;
+    width: 75%;
+    top: 30px;
     left: 16%;
     overflow-wrap: break-word;
 }
@@ -89,6 +89,8 @@ a:hover {
     font-family: ChildsHand;
     line-height: 2;
     font-size: 125%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .content-text-block a {
@@ -97,7 +99,6 @@ a:hover {
     font-size: 125%;
     text-decoration: underline;
     font-weight: bold;
-    margin-bottom: -10px;
 }
 
 .content-text-block h3 {
@@ -106,16 +107,53 @@ a:hover {
     font-size: 150%;
 }
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
 }
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.row {
+  position: absolute;
+  text-align: center;
+  top: 120px;
+  left: 225px;
+}
+
+.column {
+  width: 315px;
+  text-align: center;
+  display:inline-block;
+}
+
+.column img {
+  width: 250px;
+}
+
+.column h3 {
+  font-family: PartyConfetti;
+  letter-spacing: 0.1em;
+  font-size: 100%;
+  margin-bottom: 5px;
+}
+
+.column p {
+  font-family: ChildsHand;
+  font-size: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.column a {
+  font-family: ChildsHand;
+  font-size: 100%;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.row2 {
+  position: absolute;
+  text-align: center;
+  top: 525px;
+  left: 375px;
 }
